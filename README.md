@@ -1,2 +1,2 @@
-# CS1101S
+# cs1101S
 My missions/quests code for CS1101s AY2023/2024 Sem 1(NUS)
